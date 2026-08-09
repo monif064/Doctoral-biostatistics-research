@@ -12,7 +12,7 @@ Extreme phenotype sampling selects individuals with unusually high or low values
 - Linear mixed models
 - Expectation-Maximization algorithms
 - Genetic association testing
-- Simulation-based evaluation of statistical methods
+- Simulation-based evaluation of statistical methods.
 
 ## Repository Contents
 
