@@ -32,7 +32,11 @@ Development and evaluation of a linear mixed model method for correcting populat
 
 The project includes R code and simulation studies used to assess the statistical properties and performance of the proposed method.
 
-### 3. Research Computing Workflows
+### 3. Continuing Research and Method Development
+
+Ongoing work extending the methods and computational approaches developed during my doctoral research. This section will include selected methodological developments, simulation studies, research code, and reproducible workflows as they become ready for public sharing.
+
+### 4. Research Computing Workflows
 
 Selected R functions, high-performance computing scripts, simulation workflows, and reproducibility documentation used throughout the doctoral research.
 
@@ -46,7 +50,7 @@ Doctoral-biostatistics-research/
 projects/
 ├── population-substructure-model-comparison/
 ├── linear-mixed-model-development-eps/
-└── third-research-theme/
+└── continuing-research/
 ├── hpc/
 │   └── slurm/
 ├── publications/
